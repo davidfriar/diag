@@ -1,3 +1,5 @@
 .stack-work/
 *~
 fun.svg
+*.o
+*.hi
